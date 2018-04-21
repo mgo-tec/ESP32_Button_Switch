@@ -1,0 +1,9 @@
+ESP32_Button_Switch	KEYWORD1
+Button	KEYWORD2
+_Release	KEYWORD2
+_ON_start	KEYWORD2
+_MomentPress	KEYWORD2
+_LongPress	KEYWORD2
+_ContPress	KEYWORD2
+BTN_STATUS	KEYWORD2
+Brightness_FadeOut	KEYWORD2
